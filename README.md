@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">- 👋 Hi, I’m Gabriel<br>- 👀 Web developer constantly learning...<br>- 🌱 I work primarily with a stack focused on Next.js, React, TypeScript, and Tailwind CSS to develop modern and responsive web applications.<br>- 📫 Contact me at gabrielneves05@outlook.com</p>
+<p align="left">
+  - 👋 Olá! Eu sou o Gabriel<br>
+  - 💻 Desenvolvedor Full Stack com foco em aplicações web modernas, escaláveis e performáticas.<br>
+  - ⚙️ Minha stack principal: Next.js, React, TypeScript Tailwind CSS, NestJS, Prisma e PostgreSQL.<br>
+  - 📚 Também possuo experiência com Vue.js, Node.js, MongoDB, Firebase Docker e boas práticas de arquitetura, versionamento e qualidade de código.
+  - 📫 Contato: gabrielneves05@outlook.com
+</p>
 
 ###
 
@@ -25,9 +31,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
@@ -54,12 +60,14 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabrielnevesp/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielnevesp-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:gabrielneves05@outlook.com?subject=Candidatura" target="_blank">
