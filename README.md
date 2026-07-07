@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   - 👋 Olá! Eu sou o Gabriel.<br>
   - 💻 Desenvolvedor Full Stack com foco em aplicações web modernas, escaláveis e performáticas.<br>
   - ⚙️ Minha stack principal: Next.js, React, TypeScript Tailwind CSS, NestJS, Prisma e PostgreSQL.<br>
-  - 📚 Também possuo experiência com Vue.js, Node.js, MongoDB, Firebase Docker e boas práticas de arquitetura, versionamento e qualidade de código.
+  - 📚 Também possuo experiência com Vue.js, Node.js, MongoDB, Firebase Docker e boas práticas de arquitetura, versionamento e qualidade de código.<br>
   - 📫 Contato: gabrielneves05@outlook.com
 </p>
 
